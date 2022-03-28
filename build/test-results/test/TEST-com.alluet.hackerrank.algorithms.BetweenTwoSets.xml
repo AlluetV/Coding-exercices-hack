@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.alluet.hackerrank.algorithms.BetweenTwoSets" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-28T20:42:09" hostname="ALLUET-HP" time="0.027">
-  <properties/>
-  <testcase name="totalOfIntegers2()" classname="com.alluet.hackerrank.algorithms.BetweenTwoSets" time="0.025"/>
-  <testcase name="totalIntegers()" classname="com.alluet.hackerrank.algorithms.BetweenTwoSets" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
