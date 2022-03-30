@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.alluet.hackerrank.algorithms.BreakingTheRecords" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-30T19:38:23" hostname="ALLUET-HP" time="0.019">
+  <properties/>
+  <testcase name="breakedScoresTwo()" classname="com.alluet.hackerrank.algorithms.BreakingTheRecords" time="0.017"/>
+  <testcase name="breakedScores()" classname="com.alluet.hackerrank.algorithms.BreakingTheRecords" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
