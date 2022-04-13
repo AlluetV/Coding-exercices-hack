@@ -13,11 +13,9 @@ public class CompareStringsV2 {
         Map< Character , Integer> stringChars = new HashMap<>();
 
         for (int i = 0; i < strOne.length(); i++) {
-            int count =0;
 
             if(!stringChars.containsKey(strOne.charAt(i))){
-                count = 1;
-                stringChars.put(strOne.charAt(i) , count);
+                stringChars.put(strOne.charAt(i) ,1);
             }else {
                 int increment = 1 + stringChars.get(strOne.charAt(i));
                 stringChars.put(strOne.charAt(i), increment );
