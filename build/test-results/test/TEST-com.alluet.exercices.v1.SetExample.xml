@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.alluet.exercices.v1.SetExample" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T04:48:16" hostname="ALLUET-HP" time="0.036">
+  <properties/>
+  <testcase name="testUniqueVals()" classname="com.alluet.exercices.v1.SetExample" time="0.032"/>
+  <testcase name="testUniqueVals2()" classname="com.alluet.exercices.v1.SetExample" time="0.001"/>
+  <testcase name="testUniqueVals3()" classname="com.alluet.exercices.v1.SetExample" time="0.001"/>
+  <system-out><![CDATA[[A, B, C, D, E, F, H]
+[A, B, C, D, E, F, H, I]
+[A, A, B, C, C, F, D, E]
+[A, D, E, F, B]
+[A, A, B, A, D, D, B, E, A, F, A]
+[A, D, e, F, B]
+[A, D, e, F, B, E]
+[A, A, A, D, D, B, e, A, F, F]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
