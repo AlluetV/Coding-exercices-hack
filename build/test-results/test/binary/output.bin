@@ -1,8 +1,15 @@
-[A, B, C, D, E, F, H]
-[A, B, C, D, E, F, H, I]
-[A, A, B, C, C, F, D, E]
-[A, D, E, F, B]
-#[A, A, B, A, D, D, B, E, A, F, A]
-[A, D, e, F, B]
-[A, D, e, F, B, E]
- [A, A, A, D, D, B, e, A, F, F]
+ Bird Id = 1, Times spotted = 2
+ Bird Id = 2, Times spotted = 2
+ Bird Id = 3, Times spotted = 1
+ Bird Id = 1, Times spotted = 1
+ Bird Id = 3, Times spotted = 1
+ Bird Id = 4, Times spotted = 3
+ Bird Id = 5, Times spotted = 1
+ Bird Id = 1, Times spotted = 2
+ Bird Id = 2, Times spotted = 2
+ Bird Id = 3, Times spotted = 3
+ Bird Id = 4, Times spotted = 3
+ Bird Id = 5, Times spotted = 1
+ Bird Id = 1, Times spotted = 2
+ Bird Id = 2, Times spotted = 2
+ Bird Id = 3, Times spotted = 1
