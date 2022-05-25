@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.alluet.exercices.v1.orderedList" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-23T14:40:15" hostname="ALLUET-HP" time="0.015">
-  <properties/>
-  <testcase name="listTest()" classname="com.alluet.exercices.v1.orderedList" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
